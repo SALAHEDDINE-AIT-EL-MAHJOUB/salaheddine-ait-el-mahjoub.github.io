@@ -1,6 +1,4 @@
-# Nom de votre projet
 
-Description de votre projet...
 
 ## Consultez mon site web
 
